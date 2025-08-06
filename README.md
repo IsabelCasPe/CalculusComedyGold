@@ -29,7 +29,7 @@ Criado por **Ana Isabel Castillo Pereda**, a rainha trilingue dos quadrinhos ver
 | Integral que Diverge | [`IntegralQdiverge.pdf`](./IntegralQdiverge.pdf) |
 | Black-Scholes com humor | [`BlackScholes.pdf`](./BlackScholes.pdf) |
 | Loki Edition | [`lokiedition.pdf`](./lokiedition.pdf) 😼
-
+| Loki Trade | [`lokitrade.pdf`](./lokitrade.pdf) 😼
 ---
 
 ## ✨ Por quê?
