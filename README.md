@@ -5,7 +5,7 @@
 Este repositório é uma coletânea ousada, criativa e (inteligentemente) hilária de piadas sobre tópicos clássicos de Cálculo, Equações Diferenciais, Séries, e até... Loki.  
 Sim, ele também tem seu momento 😼.
 
-Criado por **Ana Isabel Castillo Pereda**, a rainha trilingue dos quadrinhos verdes — agora entregando memes LaTeX-level.
+Criado por **Ana Isabel Castillo Pereda**, a rainha trilingue dos quadrinhos verdes. Agora entregando memes LaTeX-level.
 ## Licença
 - Códigos Python: [MIT License](LICENSE)
 
