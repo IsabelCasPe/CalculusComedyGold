@@ -56,5 +56,5 @@ Criado por **Ana Isabel Castillo** com inspiração no caos, no cálculo e em Lo
 ---
 
 > “O humor é a antiderivada da tensão.”  
-> — Ana Isabel Castillo, rindo com estilo
+> © 2025 — Ana Isabel Castillo, rindo com estilo
 
