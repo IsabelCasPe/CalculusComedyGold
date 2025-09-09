@@ -3,7 +3,7 @@
 
 📚✨ Porque nem só de derivadas vive a mente... às vezes ela precisa rir de si mesma.  
 Este repositório é uma coletânea ousada, criativa e (inteligentemente) hilária de piadas sobre tópicos clássicos de Cálculo, Equações Diferenciais, Séries, e até... Loki.  
-Sim, ele também tem seu momento 😼.
+Sim, ele também tem seu momento 😼. 
 
 Criado por **Ana Isabel Castillo Pereda**, a rainha trilingue dos quadrinhos verdes. Agora entregando memes LaTeX-level.
 ## Licença
