@@ -1,5 +1,15 @@
+<!-- HERO -->
+# Maths -  CalculusComedyGold 💎🧮✨
 
-# 🤓 CalculusComedyGold – Piadas Geniais com Matemática Séria (ou nem tanto)
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
+## 🤓 CalculusComedyGold – Piadas Geniais com Matemática Séria (ou nem tanto)
 
 📚✨ Porque nem só de derivadas vive a mente... às vezes ela precisa rir de si mesma.  
 Este repositório é uma coletânea ousada, criativa e (inteligentemente) hilária de piadas sobre tópicos clássicos de Cálculo, Equações Diferenciais, Séries, e até... Loki.  
