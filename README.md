@@ -10,13 +10,13 @@
 **PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
 
 ---
-## 🤓 CalculusComedyGold – Piadas Geniais com Matemática Séria (ou nem tanto)
+## 🤓 CalculusComedyGold – Piadas Geniais com Matemática Séria (ou nem tanto) 
 
 📚✨ Porque nem só de derivadas vive a mente... às vezes ela precisa rir de si mesma.  
 Este repositório é uma coletânea ousada, criativa e (inteligentemente) hilária de piadas sobre tópicos clássicos de Cálculo, Equações Diferenciais, Séries, e até... Loki.  
 Sim, ele também tem seu momento 😼. 
 
-Criado por **Ana Isabel Castillo Pereda**, a rainha trilingue dos quadrinhos verdes. Agora entregando memes LaTeX-level.
+Criado por Prof. **Ana Isabel Castillo Pereda**, a rainha trilingue dos quadrinhos verdes. Agora entregando memes LaTeX-level.
 ## Licença
 - Códigos Python: [MIT License](LICENSE)
 
