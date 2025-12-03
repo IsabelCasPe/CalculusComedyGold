@@ -23,7 +23,7 @@ Criado por Prof. **Ana Isabel Castillo Pereda**, a rainha trilingue dos quadrinh
 **© 2025 Ana Isabel Castillo**  
 ---
 # Efeito Dominó 
-- ![Game do Loki](game.gif)
+- ![Game do Loki](gamedomino.gif)
 
 ---
   
