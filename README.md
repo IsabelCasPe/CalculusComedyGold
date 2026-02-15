@@ -56,6 +56,30 @@ Se não entendeu... talvez precise rever o Teorema da Divergência. 😌
 
 ---
 
+## 🐱 Loki - Experimental Feline Model (Under Construction)
+
+Meet **Loki**, the official nonlinear supervisor of this repository.
+
+This animated feline model is currently in development:
+- ✔ Dynamic scaling (breathing oscillator)
+- ✔ Eye blinking system (quasi-periodic)
+- ✔ Tail curvature via Bézier control
+- ⏳ Nose and mouth geometry pending implementation
+- ⏳ Whisker refinement in progress
+
+Loki serves as:
+- A visual metaphor for dynamical systems
+- A soft interface between mathematics and playfulness
+- A testbed for animation structures in Matplotlib
+
+Status: **Work in progress**
+Phase: Facial feature refinement
+
+Because even in Calculus, elegance matters.
+
+- ![LOKI_CAT_BELO](loki_valentinDay.gif) 
+
+
 ## 💡 Contribua!
 
 Tem uma piada nerd melhor que as minhas?  
